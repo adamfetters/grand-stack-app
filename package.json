@@ -23,5 +23,11 @@
   "bugs": {
     "url": "https://github.com/adamfetters/grand-stack-app/issues"
   },
-  "homepage": "https://github.com/adamfetters/grand-stack-app#readme"
+  "homepage": "https://github.com/adamfetters/grand-stack-app#readme",
+  "dependencies": {
+    "@neo4j/graphql": "^1.1.0",
+    "apollo-server": "^2.25.2",
+    "graphql": "^15.5.1",
+    "neo4j-driver": "^4.3.1"
+  }
 }
