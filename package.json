@@ -1,0 +1,27 @@
+{
+  "name": "grand-stack-app",
+  "version": "1.0.0",
+  "description": "Test of GRAND stack application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adamfetters/grand-stack-app.git"
+  },
+  "keywords": [
+    "GRAND",
+    "stack",
+    "Apollo",
+    "React",
+    "GraphQL",
+    "Neo4j"
+  ],
+  "author": "Adam Fetters",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adamfetters/grand-stack-app/issues"
+  },
+  "homepage": "https://github.com/adamfetters/grand-stack-app#readme"
+}
